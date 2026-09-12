@@ -38,10 +38,10 @@ AI helps me move fast, but every project I ship is reviewed, tested, and maintai
 
 ## Contact
 
-- 🌐 Website: [your-site.com](#)
-- 🐦 X: [@your_handle](#)
-- 💬 Telegram: [@your_handle](#)
-- 📧 Email: your@email.com
+- 🌐 Website: [ainy.space](#)
+- 🐦 X: [@ainyspace](#)
+- 💬 Telegram: [ezgamez](#)
+
 
 ---
 
