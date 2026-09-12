@@ -1,6 +1,6 @@
 # Hi, I'm Alex M👋
 
-**Web game developer** — I build HTML5 games and interactive web experiences with JS/TS, Phaser, PixiJS, and Three.js.
+**Web developer** — I build HTML5 games and interactive web experiences with JS/TS, Phaser, PixiJS, and Three.js.
 
 ## What I do
 
@@ -32,7 +32,7 @@ AI helps me move fast, but every project I ship is reviewed, tested, and maintai
 
 ## Selected Work
 
-- 🕹️ [Playable Ad demo](#) — 2.4 MB single-file HTML5 build
+- 🕹️ [Playable Ad demo](#пвч) — 2.4 MB single-file HTML5 build
 - 📱 [Telegram Mini App demo](#) — TMA SDK + Stars + referrals
 - 🧊 [3D widget demo](#) — Three.js, 60 FPS on mobile
 
